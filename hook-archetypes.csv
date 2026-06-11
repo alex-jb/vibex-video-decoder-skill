@@ -1,0 +1,13 @@
+slug,display_en,display_zh,description_en,description_zh,common_in
+shock_question,Shock + Question,惊吓+反问,Open with a startling visual or claim, then immediately ask a question that flips it back on the viewer ("你有没有过这种感觉..."),用一个让人愣住的画面或断言开头,马上反问把问题扔给观众,求职/情感/人生类
+pain_reveal,Pain Reveal,痛点直击,First 3 seconds describe a pain so specific the viewer thinks "this is literally me" ("月薪 1 万的打工人,每天五点起床..."),前 3 秒精准描述一种痛感,精准到观众觉得"说的就是我",职场/育儿/学习类
+speed_run,Speed Run,极速干货,Hook opens with "X 秒讲清楚 Y" or "1 分钟搞定 Z" promising compressed value,开头"X 秒讲清楚 Y" 或 "1 分钟搞定 Z" 承诺压缩价值,教学/工具/教程类
+before_after,Before/After,前后对比,Side-by-side or quick cut from "before" terrible state to "after" outcome — visual proof of transformation,左右对比或快切,从"之前"惨状到"之后"成果,视觉化的改变证据,健身/装修/化妆/技能类
+contrarian_take,Contrarian Take,反常识,Open with a statement that contradicts popular belief ("其实减肥不靠运动" or "为什么我不再读这种书"),开头一句违反大众认知 ("其实减肥不靠运动" / "为什么我不再读这种书"),知识科普/思维/职场
+list_with_count,List with Count,数字打榜,"X 个 Y" hook — promises a finite enumerable payload ("5 个让你提前退休的副业"),"X 个 Y" 钩子 — 承诺有限可枚举内容,生活/职场/赚钱类
+story_arc,Story Arc,故事弧,Opens with a teaser of the dramatic moment in a personal story then rewinds to "let me tell you how I got here",开头先抛故事最戏剧的画面,然后倒叙"我跟你讲我怎么到这一步的",vlog/情感/创业类
+authority_proof,Authority Proof,权威背书,Lead with a credential or visible authority cue (在 [大公司] 工作 10 年 / 哈佛/清华学姐 / 1 万粉积累的经验),开头亮资历或可见权威信号 (大公司 10 年 / 名校 / 1 万粉经验),职场/教育/育儿/医美类
+viewer_jealousy,FOMO / Viewer Jealousy,优越感/嫉妒钩,Show a lifestyle/result viewer wishes they had + nail it as actually attainable not aspirational ("这是我 24 岁就买房的真实流水"),展示观众羡慕的生活/结果,并暗示其实可达成而非遥不可及,旅游/收入/生活方式类
+ai_dare,AI Dare / Tool Reveal,AI 操作显神,"I let AI [do thing] for me" / "X 工具我用了 30 天,效果惊人",AI 给我[做事]/我用 X 工具 30 天/AI 一键搞定 — 工具神化叙事,AI 工具/效率/营销类
+emotional_resonance,Emotional Resonance,情感共鸣,Open with a quiet personal confession that builds intimacy ("最近一直没敢告诉妈妈..."),开头一句私密自白建立亲密 ("最近一直没敢告诉妈妈..."),情感/亲子/心理类
+controversy_bait,Controversy Bait,争议钩,Take a deliberately polarizing stance designed to invite comment-section debate ("月薪 3 万还在 996 是该跳槽"),刻意取一个会引战的立场,设计成评论区开战 ("月薪 3 万还在 996 是该跳槽"),职场/婚恋/教育类

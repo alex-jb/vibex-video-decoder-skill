@@ -2,6 +2,7 @@
 
 > **English** | [中文](README.zh-CN.md)
 
+
 **Claude Skill: paste a Douyin (抖音) / 小红书 URL → Claude calls VibeXForge → AI watches the video → returns hook breakdown + 3 remix scripts.**
 
 The first **Chinese-short-form viral-hook analyzer** as a [Claude Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview). Wraps [vibexforge.com/api/video-decode](https://vibexforge.com/tools/video-decode) so users in `claude.ai`, Claude Code, or any MCP-aware client can analyze short-form videos without leaving the conversation.
